@@ -18,8 +18,11 @@ jobs:
       with:
         node-version: 20.x
         
-    - name: Install Dependencies
+    - name: Install
       run: npm install
       
-    - name: Verify Application
+    - name: Lint
+      run: npm run lint
+      
+    - name: Test
       run: npm run test
