@@ -1,0 +1,12 @@
+{
+  "name": "merge-conflict-assign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
