@@ -1,5 +1,5 @@
 function greet() {
-    console.log("Hello from main branch");
+    console.log("Hello from dev2");
 }
 
 greet();
